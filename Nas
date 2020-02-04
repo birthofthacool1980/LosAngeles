@@ -1,4 +1,9 @@
 illmatic
 Gods Son
 Stillmatics
+<<<<<<< HEAD
+mobb deep
+wutang cloan 
+=======
 Life is Good 
+>>>>>>> 64f3377257500d537c549670eb1f09f817570565
